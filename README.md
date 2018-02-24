@@ -6,13 +6,17 @@ A simple jewel detector, based on a frame of one jewel
 Credits
 -------
 
-Alex from DogeCV
+Matt Riina for helping develop this algorithm and being good at Java
 
-Derek from EnderCV
+Dr. Vivek Singh for helping our team understand openCV and checking the validity of our algorithm
+
+Alex from DogeCV for inspiring me and letting me know it is possible
+
+Derek from EnderCV for making this possible
 
 ~~Everyone on the FTC discord for dealing with my dumb questions and my s\*\*tposting~~
 
-Install (Credit to DogeCV (Most of this was stolen from Alex)):
+Install (Credit to DogeCV (Most of this was taken from Alex's installation instructions)):
 ---------------------------------------------------------------
 
 1.  Clone this repository somewhere on your system
