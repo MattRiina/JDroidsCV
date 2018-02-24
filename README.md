@@ -7,7 +7,9 @@ Credits
 -------
 
 Alex from DogeCV
+
 Derek from EnderCV
+
 ~~Everyone on the FTC discord for dealing with my dumb questions and my s\*\*tposting~~
 
 Install (Credit to DogeCV (Most of this was stolen from Alex)):
