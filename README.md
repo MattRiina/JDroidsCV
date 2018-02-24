@@ -1,14 +1,14 @@
-#JDroidsCV
-----------
+JDroidsCV
+=========
 A simple jewel detector, based on a frame of one jewel
 
-##Credits
-=========
+Credits
+-------
 *Alex from DogeCV
 *Everyone on the FTC discord for dealing with my dumb questions and my s\*\*tpositing
 
-##Install (Credit to DogeCV (Most of this was stolen from victoryforphil)):
-===========================================================================
+Install (Credit to DogeCV (Most of this was stolen from victoryforphil)):
+-------------------------------------------------------------------------
 1. Clone this repository somewhere on your system
 2. Open your FTC application in Android Studio
 3. Go to File -> New -> Import Module
